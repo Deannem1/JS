@@ -1,0 +1,61 @@
+
+
+#content{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+
+#definition{
+display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  margin-left:10px;
+}
+
+h1{
+  align-self:flex-start;
+  margin:0;
+  padding:0;
+
+}
+
+#sound{
+  align-self:flex-start;
+  margin:0;
+  padding:0;
+  font-style: italic;
+
+}
+
+#part{
+align-self:flex-start;
+  margin:0;
+  padding:0;
+}
+
+
+
+#definition-body{
+  border-left: 3px solid black;
+  padding-left:10px;
+}
+
+#check-it{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  background-color: black;
+  color:white;
+  padding:50px
+}
+
+
+#result{
+color:white;
+padding:5px;
+font-size:20pt;
+}
