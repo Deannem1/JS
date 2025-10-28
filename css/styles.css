@@ -1,5 +1,12 @@
 body{
     background-color:rgb(7, 99, 127);
+    margin:0;
+}
+
+header{
+    background-color: darkgoldenrod;
+    padding:10px;
+    color:bisque
 }
 
 #graphics-grid{
